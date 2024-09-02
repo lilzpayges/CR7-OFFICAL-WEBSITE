@@ -1,4 +1,37 @@
-
+<!DOCTYPE html>
+ <html>
+ 
+ <head>
+   <meta name:"viewport"  content="width=device=width, initial-scale=1.0">
+   <title>CRISTIANO RONALDO BIO</title>
+ 
+   <style>
+   .heda{text-align:center;
+         background-color:green;
+		 width:100%;
+		 color:white;
+		 padding-top:10px;
+		 margin-top:-10px;
+		 position:fixed;
+		 border-bottom:1.5px solid red;}
+		 
+   .united{display:flex;}
+   
+   .eti{padding-top:30px;}
+   
+   body{background-color:rgba(250,80,60,0.3);
+        }
+   </style>
+ 
+ </head>
+ 
+ <body>
+ 
+ <h1 class=heda>CRISTIANO RONALDO</h1>
+ 
+ 
+ <br>
+ 
  <p class=eti>Cristiano Ronaldo dos Santos Aveiro,is a portuguese
  born professional footballer
  and is regarded as one of the greatest footballers of all time.
